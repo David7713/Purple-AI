@@ -3,7 +3,7 @@
 
 A basic chatbot template with a clean and simple design. It uses open-source APIs, making it easy to create a friendly chat experience without complicated features.
 
-  ## Payments Main
+  ## Main
 ![App Screenshot](https://github.com/David7713/Purple-AI/blob/main/purple/src/assets/Screenshot_1.png?raw=true)
 
 
